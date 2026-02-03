@@ -1,0 +1,3 @@
+mvn install:install-file -DgroupId=org.apache.hadoop -DartifactId=hadoop-huaweicloud -Dversion=3.1.1.29  -Dpackaging=jar  -Dfile=hadoop-huaweicloud-3.1.1.29.jar
+
+mvn install:install-file -DgroupId=com.huawei.storage -DartifactId=esdk-obs-java -Dversion=3.19.7.3 -Dpackaging=jar  -Dfile=esdk-obs-java-3.19.7.3.jar
